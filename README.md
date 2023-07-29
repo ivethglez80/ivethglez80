@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Iveth</h1>
 <h3 align="center">A passionate full stack web developer!</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"/>
+<!-- <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivethglez&label=Profile%20views&color=0e75b6&style=flat" alt="ivethglez" /> </p>
 
@@ -22,9 +22,9 @@
 
 - 💬 Ask me about **React | Nodejs | Express | PostgresSQL | HTML5 | CSS**
 
-- 📫 How to reach me **iveth.dev@gmail.com**
+- 📫 mail me: **iveth.dev@gmail.com**
 
-- ⚡ Fun fact **"Once upon a time, dial-up ruled the web—patience was key!" ⏳📠🌐**
+- ⚡ Fun fact **"Once upon a time: dial-up ruled the web... patience was key!" ⏳📠🌐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
