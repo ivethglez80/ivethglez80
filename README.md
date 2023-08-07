@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/ivethdev" target="blank"><img src="https://img.shields.io/twitter/follow/ivethdev?logo=twitter&style=for-the-badge" alt="ivethdev" /></a> </p>
 
-- 🔭 I’m currently just about to start working on **a SPA PERN CRUD for a startup in the cosmetic industry**
+- 🔭 I’ve had just started working on **a SPA PERN CRUD for a startup in the cosmetic industry**
 
 - 🌱 I’m currently learning **TypeScript**
 
