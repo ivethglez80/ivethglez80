@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/ivethdev" target="blank"><img src="https://img.shields.io/twitter/follow/ivethdev?logo=twitter&style=for-the-badge" alt="ivethdev" /></a> </p>
 
-- 🔭 I’ve had just started working on **a SPA PERN CRUD for a startup in the cosmetic industry**
+- 🔭 I’ve had just finished working on **a SPA PERN CRUD for a startup in the cosmetic industry**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently creating pretty small apps to work my knowledge and habilities, please visit them, each one has a readme with pictures!
 
 - 👨‍💻 Most of my projects are available at [https://github.com/ivethglez80](https://github.com/ivethglez80)
 
