@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Iveth</h1>
 <h3 align="center">A passionate full stack web developer!</h3>
 
-- 🔭 I’m currently working on **a WEB APP PERN CRUD for a company that produces and distributes specific food products for a foreign population sector.**
+- 🔭 I’m currently working on **a WEB APP for a company that provides all-inclusive services for tourists at a paradisiacal place in Mexico**
 
 - 🌱 I’m currently learning **TypeScript**
 
