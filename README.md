@@ -7,9 +7,9 @@
 <h1 align="center">Hi 👋, I'm Iveth</h1>
 <h3 align="center">A passionate full stack web developer!</h3>
 
-- 🔭 I’m currently working on **a WEB APP for a company that provides all-inclusive services for tourists at a paradisiacal place in Mexico**
+- 🔭 I’m currently working on the development of **a CRUD RESTful SPA using the PERN stack** for a company that provides wedding services. 
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **MySQL**
 
 - 👨‍💻 Most of my projects are available at [https://github.com/ivethglez80](https://github.com/ivethglez80)
 
