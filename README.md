@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MySQL**
 
-- 👨‍💻 Most of my projects are available at [https://github.com/ivethglez80](https://github.com/ivethglez80
+- 👨‍💻 Most of my projects are available at [https://github.com/ivethglez80]
 
 - 📝 Have a look at my portfolio: [https://ivt-portfolio.vercel.app/](https://ivt-portfolio.vercel.app/)
 
