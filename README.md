@@ -13,7 +13,7 @@
 
 - 👨‍💻 Most of my projects are available at [https://github.com/ivethglez80](https://github.com/ivethglez80)
 
-- 📝 Have a look at my portfolio: [https://ivethglez80.github.io/ivt-portfolio/](https://ivethglez80.github.io/ivt-portfolio/)
+- 📝 Have a look at my portfolio: [https://ivethglez80.github.io/ivt-portfolio/](https://ivethglez80.github.io/ivt-portfolio/](https://ivt-portfolio.vercel.app/)
 
 - 💬 Ask me about **React | Nodejs | Express | PostgresSQL | HTML5 | CSS**
 
