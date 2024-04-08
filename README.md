@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on the development of **a CRUD RESTful SPA using the PERN stack** for a company that provides wedding services. 
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 Most of my projects are available at [https://github.com/ivethglez80]
 
