@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Iveth</h1>
 <h3 align="center">A passionate full stack web developer!</h3>
 
-- 🔭 I’m currently working on the development of **a CRUD RESTful SPA using the PERN stack** for a company that provides wedding services. 
+- 🔭 I’m currently working on the development of **WEB APP responsive to showcase and sell personalized children books**. 
 
 - 🌱 I’m currently learning **React Native**
 
