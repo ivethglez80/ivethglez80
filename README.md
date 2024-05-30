@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Iveth</h1>
 <h3 align="center">A passionate full stack web developer!</h3>
 
-- 🔭 I’m currently working on the development of **WEB APP responsive to showcase and sell personalized children books**. 
+- 🔭 I’m currently working on the development of an APP for android e IOS to showcase an online radio. 
 
 - 🌱 I’m currently learning **React Native**
 
