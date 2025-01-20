@@ -4,22 +4,20 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Iveth</h1>
-<h3 align="center">A passionate full stack web developer!</h3>
+<h3 align="center">- Passionate full stack developer -</h3>
 
-- 🔭 I’m currently working on the development of an APP for android e IOS to showcase an online radio. 
+- 🔭 I’m currently working on the development of a fully self-manageable website to showcase and sell tickets for a tango show venue.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m learning **React Native**
 
 - 👨‍💻 Most of my projects are available at [https://github.com/ivethglez80]
 
 - 📝 Have a look at my portfolio: [https://ivt-portfolio.vercel.app/](https://ivt-portfolio.vercel.app/)
 
-- 💬 Ask me about **React | Nodejs | Express | PostgresSQL | HTML5 | CSS**
+- 💬 Ask me about **React | NExt | Nodejs | Express | Nest | PostgresSQL | MySQL | Docker | Jest**
 
 - 📫 How to reach me **iveth.dev@gmail.com**
 
-- ⚡ Fun fact **The world's largest desert is not a sandy one but Antarctica! It's also the coldest and windiest continent. Just like exploring the coding landscape, sometimes the most unexpected places hold surprising facts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
