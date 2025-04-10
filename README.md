@@ -6,7 +6,10 @@
 
 <h3 align="center">- Passionate full stack developer -</h3>
 
-- 🔭 I’m currently working on the development of a fully self-manageable website to showcase and sell tickets for a tango show venue.
+🔭 I’m currently working on the development of a fully self-manageable website, including frontend and backend.
+It features a landing page, six informational pages, a blog, and an admin dashboard with user roles and authentication.
+Designed to grow, it will later incorporate a membership system and a library.
+Built with Next.js, NestJS, Swagger, Jest, MySQL, and Prisma.
 
 - 🌱 I’m learning **React Native**
 
