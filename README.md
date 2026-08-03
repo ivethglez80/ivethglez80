@@ -44,9 +44,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivethglez80&show_icons=true&theme=radical&hide_border=true" alt="Iveth's GitHub Stats" />
-</p>
+<div align="center">
+
+![Iveth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivethglez80&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivethglez80&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
