@@ -43,16 +43,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ivethglez80&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-![Iveth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivethglez80&show_icons=true&theme=radical&hide_border=true)
+### 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivethglez80&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=ivethglez80&theme=radical&hide_border=true"/>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=ivethglez80&theme=react-dark&hide_border=true"/>
+</p>
 ---
 
 ### 📫 Let's Connect
