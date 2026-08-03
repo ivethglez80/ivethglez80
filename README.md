@@ -43,16 +43,10 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ivethglez80&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=ivethglez80&theme=radical&hide_border=true"/>
+<p align="center">  
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=ivethglez80&theme=react-dark&hide_border=true"/>
 </p>
 ---
