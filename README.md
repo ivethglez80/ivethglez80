@@ -13,7 +13,6 @@
 
 ---
 
-### 🚀 What I'm currently working on
 
 ### 🚀 What I'm currently working on
 
