@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/iveth-gonzalez-98799895/" target="_blank">
-    <img src="https://pbs.twimg.com/profile_banners/1676577299167162370/1737380946/1500x500" alt="Iveth Gonzalez Banner">
+    <img src="https://res.cloudinary.com/dl0jhqre0/image/upload/v1785757514/portfolio/banner1_sadvxq.png" alt="Iveth Gonzalez Banner">
   </a>
 </p>
 
