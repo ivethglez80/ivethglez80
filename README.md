@@ -15,9 +15,11 @@
 
 ### 🚀 What I'm currently working on
 
-- **Lumen Project:** Architecting a comprehensive, self-manageable platform combining a Headless CMS approach with custom role-based authentication. 
+### 🚀 What I'm currently working on
+
+- **Multi-Tenant E-Commerce Platform:** Architecting a scalable B2B2C solution that allows multiple merchants to independently manage their own storefronts, inventory, and orders within a centralized system. 
 - **Tech Stack:** Next.js (App Router), NestJS, Prisma, PostgreSQL, and Swagger for robust API documentation.
-- **Goal:** Delivering a highly scalable product designed for future modularity (membership systems and digital libraries).
+- **Goal:** Solving complex data isolation and high-concurrency challenges, delivering a robust product designed for operational efficiency and high conversion (CRO).
 
 ### ⚙️ Core Technical Stack
 
